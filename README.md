@@ -6,10 +6,10 @@ My Advent of code 2025 solutions for the 12 day challenge
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
-- [x] Day 6 (Part 1 is correct, Part 2 is wrong)
+- [x] Day 6 
 - [x] Day 7
 - [x] Day 8
-- [x] Day 9
+- [x] Day 9 (Part 1 is correct, Part 2 is wrong)
 - [x] Day 10
 - [x] Day 11
 - [ ] Day 12
