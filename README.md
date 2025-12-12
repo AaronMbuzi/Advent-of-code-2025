@@ -9,7 +9,8 @@ My Advent of code 2025 solutions for the 12 day challenge
 - [x] Day 6
 - [x] Day 7
 - [x] Day 8
-- [ ] Day 9
-- [ ] Day 10
-- [ ] Day 11
-- [ ] Day 12
+- [x] Day 9
+- [x] Day 10
+- [x] Day 11
+- [x] Day 12
+
