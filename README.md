@@ -1,6 +1,6 @@
 # Advent-of-code-2025
 My Advent of code 2025 solutions for the 12 day challenge
-- Each challenge is in its own branch
+- Each Day has its own Sub Folder
 - [x] Day 1
 - [x] Day 2
 - [x] Day 3
@@ -13,4 +13,5 @@ My Advent of code 2025 solutions for the 12 day challenge
 - [x] Day 10
 - [x] Day 11
 - [x] Day 12
+
 
