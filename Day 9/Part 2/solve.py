@@ -1,6 +1,9 @@
 # Do not use this code, use the Java Code
 
 
+# Do not use this code, use the Java Code
+
+
 import sys
 
 def solve(input_str):
